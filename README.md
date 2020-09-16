@@ -37,7 +37,7 @@
 ---
 
 
-  summary>:zap: Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FaikYY&show_icons=true&hide_border=true" />
   

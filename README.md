@@ -4,7 +4,7 @@
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
 - 🔭 I’m currently working on Custom Search Engine Welcome Page!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning c++ and bash
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2020 Goals: Learning bspwm and sxhkd + vim and timux
 - ⚡ Fun fact: I learned English in Elazığ/Turkey

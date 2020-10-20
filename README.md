@@ -3,10 +3,10 @@
 
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
-- 🔭 I’m currently working on Custom Search Engine Welcome Page!
-- 🌱 I’m currently learning c++ and bash
+- 🔭 I’m currently working on a custom Debian setup!
+- 🌱 I’m currently learning c++ and shell
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2020 Goals: Learning bspwm and sxhkd + vim and timux
+- 🥅 2020 Goals: Learning bspwm and sxhkd + vim, tmux and other magical linux tools
 - ⚡ Fun fact: I learned English in Elazığ/Turkey
 
 

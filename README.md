@@ -3,8 +3,8 @@
 
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
-- 🔭 I’m currently working on a custom Debian setup!
-- 🌱 I’m currently learning c++ and shell
+- 🔭 I’m currently working on Freelance Projects!
+- 🌱 I’m currently learning Angular, c++ and shellscript
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2020 Goals: Learning bspwm and sxhkd + vim, tmux and other magical linux tools
 - ⚡ Fun fact: I learned English in Elazığ/Turkey
@@ -36,7 +36,7 @@
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br />
 <br />
 

@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Freelance Projects!
 - 🌱 I’m currently learning Angular, c++ and shellscript
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2020 Goals: Learning bspwm and sxhkd + vim, tmux and other magical linux tools
+- 🥅 2021 Goals: Learning Angular, Flutter and Expressjs to become a fullstack developer, also to become an advanced VIM user
 - ⚡ Fun fact: I learned English in Elazığ/Turkey
 
 

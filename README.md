@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Freelance Projects!
 - 🌱 I’m currently learning React, python and web development
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2021 Goals: Learning Flutter and Expressjs to become a fullstack developer, also to become an advanced VIM user
+- 🥅 2022 Goals: Learning Flutter and Expressjs to become a fullstack developer, also to become an advanced VIM user
 
 
 

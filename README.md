@@ -44,6 +44,6 @@
 ---
   
 [twitter]: https://twitter.com/Dev_Faik
-[instagram]: https://www.instagram.com/bythewayimfaik/
+[instagram]: https://www.instagram.com/bythewayimfynn/
 [linkedin]: https://www.linkedin.com/in/faik-yesilyaprak/ 
 

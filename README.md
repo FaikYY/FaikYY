@@ -3,10 +3,10 @@
 
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
-- 🔭 I’m currently working on Freelance Projects!
-- 🌱 I’m currently learning React, python and web development
+- 🔭 I’m currently working on Open Source Projects!
+- 🌱 I’m currently learning Python, Machine Learning
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2022 Goals: Learning Flutter and Expressjs to become a fullstack developer, also to become an advanced VIM user
+- 🥅 2022 Goals: Learning Numpy, Jax and other ML related libraries in Python
 
 
 

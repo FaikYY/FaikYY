@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Open Source Projects!
 - 🌱 I’m currently learning Python, Machine Learning
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2022 Goals: Learning Numpy, Jax and other ML related libraries in Python
+- 🥅 2023 Goals: Learning Numpy, Jax and other ML related libraries in Python
 
 
 

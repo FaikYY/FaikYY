@@ -4,7 +4,7 @@
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
 - 🔭 I’m currently working on Full Stack Development!
-- 🌱 I’m currently improving my Java, React and NodeJS skilss
+- 🌱 I’m currently improving my Java, React and NodeJS skils
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2023 Goals: Learning NextJS, Docker and CMD tools
 

@@ -3,11 +3,10 @@
 
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
-- 🔭 I’m currently working on Open Source Projects!
-- 🌱 I’m currently learning Python, Machine Learning
+- 🔭 I’m currently working on Full Stack Development!
+- 🌱 I’m currently improving my Java, React and NodeJS skilss
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals: Learning Numpy, Jax and other ML related libraries in Python
-
+- 🥅 2023 Goals: Learning NextJS, Docker and CMD tools
 
 
 ### Connect with me:

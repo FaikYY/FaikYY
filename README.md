@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Dev_Faik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="faik-yesilyaprak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bythewayimfaik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,7 +41,6 @@
 
 ---
   
-[twitter]: https://twitter.com/Dev_Faik
-[instagram]: https://www.instagram.com/bythewayimfynn/
+[twitter]: https://twitter.com/Faik_YY
 [linkedin]: https://www.linkedin.com/in/faik-yesilyaprak/ 
 

@@ -4,18 +4,14 @@
 ## I'm a Software Engineering Student, Developer, Bilingual!
 
 - 🔭 I’m currently working on Full Stack Development!
-- 🌱 I’m currently improving my Java, React and NodeJS skils
+- 🌱 I’m currently improving my JavaScript, NodeJS and PHP skills
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2023 Goals: Learning NextJS, Docker and CMD tools
+- 🥅 2024 Goals: Deploying my first full stack projects along with my own personal portfolio website
 
 
 ### Connect with me:
-
-
-
 [<img align="left" alt="Dev_Faik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="faik-yesilyaprak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:

@@ -1,7 +1,7 @@
 ### Hi there, I'm Faik 👋
 
 
-## I'm a Software Engineering Student, Developer, Bilingual!
+## I'm a Software Engineer, Developer, Bilingual, Motorcycle Fan, Pianist!
 
 - 🔭 I’m currently working on Full Stack Development!
 - 🌱 I’m currently improving my JavaScript, NodeJS and PHP skills

@@ -1,42 +1,42 @@
-### Hi there, I'm Faik 👋
+# Hi there, I'm Faik (Fike)! 👋
 
+I'm an **award-winning, dual-degree Software Engineer** passionate about building robust, scalable, and efficient applications. My expertise lies at the intersection of cutting-edge technology and practical problem-solving.
 
-## I'm a Software Engineer, Developer, Bilingual, Motorcycle Fan, Pianist!
-
-- 🔭 I’m currently working on Full Stack Development!
-- 🌱 I’m currently improving my JavaScript, NodeJS and PHP skills
-- 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2024 Goals: Deploying my first full stack projects along with my own personal portfolio website
-
-
-### Connect with me:
-[<img align="left" alt="Dev_Faik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="faik-yesilyaprak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<br />
-<br />
-
-
+* **Core Strengths:** Full-Stack Development, AI/ML Integration (especially for Workflow Automation, CV & OCR), Complex Database Architecture, Cloud Deployment, and REST API Design.
+* **Tech Spectrum:** Proficient with `Java (Spring)`, `JavaScript (React, Vue)`, `Flutter`, `SQL/NoSQL (PostgreSQL, MongoDB)`, `GCP`, and `AWS`.
+* **Delivery Focus:** Proven ability delivering polished, cross-platform solutions (Android, IOS, Linux, Windows, macOS) with responsive UIs.
+* **Methodology:** Strong believer in best practices, utilizing `Git`, `Docker`, `Bash scripting`, and adhering to the full `SDLC`. Deep Linux system knowledge (certified admin) enhances my development capabilities across environments.
 
 ---
-  
-[twitter]: https://twitter.com/Faik_YY
-[linkedin]: https://www.linkedin.com/in/faik-yesilyaprak/ 
 
+## Tech Stack & Tools 🛠️
+
+Here's a glimpse into the technologies I frequently work with:
+
+| Category           | Technologies                                                                     |
+| ------------------ | -------------------------------------------------------------------------------- |
+| **Languages** | `Java`, `JavaScript/TypeScript`, `Python`, `Dart`, `Go`, `Bash`, `SQL`               |
+| **Frontend** | `React`, `Vue.js`, `Flutter`, `Angular`, `HTML5`, `CSS3 (SASS/LESS)`               |
+| **Backend** | `Spring Boot`, `Node.js`, `Express.js`, `Hibernate`                              |
+| **Databases** | `PostgreSQL`, `MongoDB`, `MySQL`, `SQLite`, `Firestore`, `Oracle`, `SQL Server`    |
+| **Cloud & DevOps** | `AWS`, `Google Cloud Platform (GCP)`, `Docker`, `Git`, `CI/CD`, `Terraform` (example) |
+| **AI/ML** | `Python (Libraries: TensorFlow/Keras/PyTorch, scikit-learn, OpenCV)`             |
+| **OS** | `Android, IOS, Linux (Debian, Ubuntu, Fedora, CentOS, RHEL)`, `macOS`, `Windows`                  |
+
+---
+
+## Currently Exploring 🌱
+
+* Advanced MLOps practices for deploying and managing AI models.
+* Exploring serverless architectures and event-driven systems.
+* Contributing to open-source projects in the AI/automation space.
+
+---
+
+## Let's Connect 🔗
+
+* **LinkedIn:** [https://www.linkedin.com/in/faik-yesilyaprak]
+* **Portfolio/Website:** [https://www.faikyy.com]
+* **Email:** [faikyesilyaprak@outlook.com]
+
+---
